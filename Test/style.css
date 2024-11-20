@@ -1,0 +1,51 @@
+
+
+
+body{
+    background-image: url('https://metadata-static.plex.tv/b/gracenote/ba8b9a328b654b8fc33999a48c4bfed9.jpg');
+   
+}
+
+h1{
+    text-align:     right;
+    color: black;
+    font-family: 'Franklin Gothic Medium';
+    font-size: 45px;
+    padding: 20px;
+    margin: 20px;
+    
+    
+}
+h2{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium';
+    font-size: 35px;
+    padding: 20px;
+}
+
+button{
+    background-color: chocolate;
+    color: black;
+    font-size:  20px;
+    font-weight: bolder;
+    border-radius: 90px;
+    font-family: 'Franklin Gothic Medium';
+    position: absolute;
+    height: 5%;
+    width: 10%;
+    
+}
+button:active{
+    transform: scale(0.98);
+}
+
+.buzz{
+    left: 34%;
+}
+.huzz{
+    left: 57%;
+}
+.huh{
+    left: 69%;
+}
+

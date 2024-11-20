@@ -1,0 +1,49 @@
+body{
+    background-image: url('https://cdn.discordapp.com/attachments/1271704907228905482/1308649266717392946/image.png?ex=673eb61a&is=673d649a&hm=578f6629e1d437ac827b2de45af16f7a4dc32894d4ecdac12c9a68a21ac22cf7&');
+   
+}
+
+h1{
+    text-align:     right;
+    color: yellow;
+    font-family: 'Franklin Gothic Medium';
+    font-size: 45px;
+    padding: 20px;
+    margin: 20px;
+    
+    
+}
+h2{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium';
+    font-size: 50px;
+    padding: 20px;
+    color: yellow;
+    
+}
+
+button{
+    background-color: chocolate;
+    color: black;
+    font-size:  20px;
+    font-weight: bolder;
+    border-radius: 90px;
+    font-family: 'Franklin Gothic Medium';
+    position: absolute;
+    height: 5%;
+    width: 10%;
+    
+}
+button:active{
+    transform: scale(0.98);
+}
+
+.buzz{
+    left: 20%;
+}
+.huzz{
+    left: 45%;
+}
+.huh{
+    left: 69%;
+}
